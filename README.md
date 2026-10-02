@@ -13,7 +13,7 @@ Votre application web doit se composer des éléments suivantes :
 - une page listant toutes les recettes via une pagination. Une recherche via le nom d'une recette doit être possible.
 - une page permettant la création de recette
 
-Chaque page doit être accessible via une URL différente.
+Chaque page doit être accessible via une URL différente et le TITLE (ce qui s'affiche sur l'onglet du navigateur) doit se mettre à jour.
 
 ## Modèle de données
 
