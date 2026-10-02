@@ -4,6 +4,8 @@
 
 L'application n'est accessible uniquement après s'être identifié. La gestion du user se fait via une sauvegarde dans le LocalStorage. Pour se connecter, l'utilisateur devra renseigner un login et un mot de passe identique qui devront contenir 5 caractères minimumes, 1 chiffre et un 1 caractère spécial parmis ceux là ./*-+
 
+Depuis n'importe quelle page, vous devez fournir à l'utilisateur la possibilité de se déconnecter.
+
 ## Fonctionnalités attendues
 
 Votre application web doit se composer des éléments suivantes :
