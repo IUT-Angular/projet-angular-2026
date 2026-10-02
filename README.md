@@ -18,6 +18,10 @@ Votre application web doit se composer des éléments suivantes :
 
 Les fonctionnalités de tri et de filtre sont accessibles via la documentation de l'API : [https://github.com/mockapi-io/docs/wiki/Code-examples#sorting](https://github.com/mockapi-io/docs/wiki/Code-examples)
 
+## Rendu graphique
+
+L'intégration d'une bibliothèque CSS, de votre choix, est obligatoire.
+
 ## Rendu
 
 Le projet, par groupe de 2, doit être rendu pour le dimanche 18 octobre 2026 à 23h59.
