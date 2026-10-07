@@ -9,9 +9,10 @@ Depuis n'importe quelle page, vous devez fournir à l'utilisateur la possibilit�
 ## Fonctionnalités attendues
 
 Votre application web doit se composer des éléments suivantes :
-- une page d'accueil qui liste les 5 dernières recettes. On affichera uniquement le nom et les 15 premiers caractères de la description.
-- une page listant toutes les recettes via une pagination. Une recherche via le nom d'une recette doit être possible.
+- une page d'accueil qui liste les 5 dernières recettes. On affichera uniquement le nom, les 15 premiers caractères de la description et la moyenne des notes
+- une page listant toutes les recettes (affiché le nom de la recette, les 15 premiers caractères de la description etla moyenne des notes de la recette) via une pagination. Une recherche via le nom d'une recette doit être possible.
 - une page permettant la création de recette
+- une page affichant le détail d'une recette (nom, ingrédients, tous les avis) et avoir la possibilité d'ajouter un avis sur la recette
 
 Chaque page doit être accessible via une URL différente et le TITLE (ce qui s'affiche sur l'onglet du navigateur) doit se mettre à jour.
 
